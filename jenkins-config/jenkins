@@ -1,4 +1,5 @@
 # defaults for jenkins continuous integration server
+# Added a new line to test the commit feature of GIT
 
 # pulled in from the init script; makes things easier.
 NAME=jenkins
