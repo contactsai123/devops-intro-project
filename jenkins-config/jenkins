@@ -1,6 +1,6 @@
 # defaults for jenkins continuous integration server
 # Added a new line to test the commit feature of GIT
-# Added a new line to test the branch and merge feature of GIT
+# Added a new line to update the changes in dev branch and merge feature to master of GIT
 
 # pulled in from the init script; makes things easier.
 NAME=jenkins

@@ -1,5 +1,7 @@
 #!/bin/bash
 # adapted from https://gist.github.com/micw/e80d739c6099078ce0f3
+# Added a new line to update the changes in dev branch and merge feature to master of GIT
+
 
 set -e
  
